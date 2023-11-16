@@ -95,20 +95,7 @@ function App() {
           >
             C
           </button>
-          <button
-            id="negative"
-            onClick={() => buttonPress("negative")}
-            className="light-gray"
-          >
-            +/-
-          </button>
-          <button
-            id="percentage"
-            onClick={() => buttonPress("percentage")}
-            className="light-gray"
-          >
-            %
-          </button>
+
           <button
             id="divide"
             onClick={() => buttonPress("/")}
